@@ -1,0 +1,22 @@
+---
+linters:
+  enable-all: true
+  disable:
+    - exhaustruct
+    - goerr113
+    - gomnd
+    - varnamelen
+    - wrapcheck
+    - wsl
+    #
+    # The following linters have been deprecated
+    #
+    - maligned
+    - ifshort
+    - structcheck
+    - exhaustivestruct
+    - scopelint
+    - deadcode
+    - nosnakecase
+    - interfacer
+    - varcheck
