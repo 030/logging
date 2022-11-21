@@ -2,3 +2,4 @@
 cmd/logging/logging
 cmd/logging/logging.sha512.txt
 go-build.sh
+dip
